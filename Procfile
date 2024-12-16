@@ -1,1 +1,1 @@
-web: gunicorn sih.wsgi
+web: gunicorn app:app  
